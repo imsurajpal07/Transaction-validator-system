@@ -2,8 +2,6 @@ package com.transaction.validator.service;
 
 import com.transaction.validator.model.TransactionContext;
 import org.junit.jupiter.api.Test;
-import org.mockito.MockedStatic;
-import org.mockito.Mockito;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.boot.test.context.SpringBootTest;
 
